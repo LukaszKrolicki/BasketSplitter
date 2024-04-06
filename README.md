@@ -14,6 +14,7 @@ Details:
 - Java 17
 - Tests
 - FatJar made
+- gson, junit used
 
 -------------------
 
